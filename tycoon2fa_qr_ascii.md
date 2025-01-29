@@ -36,11 +36,14 @@ The URL used in the attack is:
 
 [https[:]//fw8d[.]ocf0asky[.]com/XMazUUEC/](https[:]//fw8d[.]ocf0asky[.]com/XMazUUEC/)
 
-According to [urlscan.io](https://urlscan.io), this URL was first submitted on November 14, 2024. Since then, the subdomain has been changed multiple times while the path remains the same. Through searching for Indicators of Compromise (IOC), it was determined that this URL is part of the **Tycoon 2FA** framework, as described by [Validin](https://www.validin.com/blog/tycoon_2fa_analyzing_and_hunting_phishing-as-a-service_domains/).
+According to [urlscan.io](https://urlscan.io), this URL was first submitted on November 14, 2024. ( https://urlscan.io/search/#domain%3Aocf0asky.com ) Since then, the subdomain has been changed multiple times while the path remains the same. Through searching for Indicators of Compromise (IOC), it was determined that this URL is part of the **Tycoon 2FA** framework, as described by [Validin](https://www.validin.com/blog/tycoon_2fa_analyzing_and_hunting_phishing-as-a-service_domains/).
 
 > "The Tycoon 2FA Phishing-as-a-Service (PhaaS) platform is an advanced tool used by cybercriminals to streamline and scale phishing attacks targeting two-factor authentication (2FA) mechanisms. Tycoon 2FA operates as a service, offering a user-friendly interface, customizable phishing templates, and integrated automation features."
 
 Further details and a previous analysis of Tycoon 2FA by Sekoia TDR and Quentin Bourgue can be found [here](https://www.validin.com/blog/tycoon_2fa_analyzing_and_hunting_phishing-as-a-service_domains/).
+
+See the url in "action" on Any.Run
+https://app.any.run/tasks/ed62302d-54d3-4ba0-a10c-536248d338dc
 
 ### Structure of the Attack
 
