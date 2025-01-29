@@ -1,4 +1,6 @@
+
 ## Tycoon 2FA – New Attack Technique: ASCII Code QR Code Phishing
+## Published: 29.01.2025 / 08:07pm CET
 
 One of the latest techniques employed in two-factor authentication (2FA) phishing is the use of ASCII code QR codes. This blog post analyzes this new attack method, which is part of the **Tycoon 2FA** Phishing-as-a-Service (PhaaS) framework.
 
